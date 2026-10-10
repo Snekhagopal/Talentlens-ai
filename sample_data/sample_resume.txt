@@ -1,0 +1,20 @@
+Priya Raman
+Chennai, India | priya.raman@example.com
+
+SUMMARY
+Backend engineer with 4 years of experience building data-heavy web services in Python.
+
+SKILLS
+Python, Django, FastAPI, PostgreSQL, Docker, AWS, Git, REST APIs, Pandas, Redis
+
+EXPERIENCE
+Software Engineer — Acme Analytics (2022 – Present)
+- Built FastAPI microservices handling 2M requests/day
+- Migrated reporting pipelines from cron scripts to Docker-based jobs on AWS ECS
+
+Junior Developer — Bright Solutions (2020 – 2022)
+- Developed Django REST APIs backed by PostgreSQL
+- Added Redis caching, cutting p95 latency by 40%
+
+EDUCATION
+B.E. Computer Science — Anna University, 2020

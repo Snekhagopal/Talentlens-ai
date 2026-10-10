@@ -1,0 +1,20 @@
+Senior Python Backend Engineer
+
+We are looking for a backend engineer to build and scale our data platform.
+
+Requirements:
+- 5+ years of professional software development experience
+- Strong Python skills
+- Experience with FastAPI or Django
+- PostgreSQL and SQL query optimization
+- Docker and Kubernetes
+- AWS
+
+Nice to have:
+- Kafka or other streaming systems
+- Terraform
+- Redis
+
+Responsibilities:
+- Design and maintain REST APIs
+- Own services end-to-end from design to production monitoring
