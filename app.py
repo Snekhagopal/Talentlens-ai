@@ -19,7 +19,6 @@ from src.gemini_client import GeminiClient, GeminiError
 
 st.set_page_config(
     page_title="TalentLens AI | Resume Matcher",
-    page_icon="💜",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -320,7 +319,7 @@ client = GeminiClient()
 # =====================================================
 
 with st.sidebar:
-    st.markdown("# 💜 TalentLens AI")
+    st.markdown("#TalentLens AI")
     st.caption("RESUME INTELLIGENCE")
     st.divider()
 
