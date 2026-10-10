@@ -319,7 +319,7 @@ client = GeminiClient()
 # =====================================================
 
 with st.sidebar:
-    st.markdown("#TalentLens AI")
+    st.markdown("TalentLens AI")
     st.caption("RESUME INTELLIGENCE")
     st.divider()
 
